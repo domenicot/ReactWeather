@@ -23,6 +23,7 @@ module.exports = {
         root:__dirname,
         alias: {
             About: 'app/components/About.jsx',
+            applicationStyles: 'app/styles/app.css',
             Examples: 'app/components/Examples.jsx',
             ErrorModal: 'app/components/ErrorModal.jsx',
             Main: 'app/components/Main.jsx',
